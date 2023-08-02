@@ -32,6 +32,7 @@ class TodoListPage extends StatelessWidget {
             }),
           );
         },
+        child: Icon(Icons.add),
       ),
     );
   }
